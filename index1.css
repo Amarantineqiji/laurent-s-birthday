@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img{
+	max-width: 100%;
+ 	height:auto;
+}
+ table{
+	padding-top: 2%;
+ 	padding-bottom: 2%;	
+}
+ .head{
+ 	text-align: center;
+    font-size: 200%;
+    color:aliceblue;
+ top:0%;
+ }
+ #calendar{
+ 	border: #FFFFFF;
+ 	border:0.3%;
+ 	padding: 3%;
+ }
+ 
+ .cap{
+ 	font-size: 150%;
+ 	font: small-caps;
+	padding: 1%;
+	color:#1F233A;
+ }
+ .week{
+ padding-bottom:10%;
+ 	text-align: center;
+ 	font-size: 100%;
+ 	font-weight: bolder;
+ 	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+     color:#CFA805;
+ }
+ .day{
+ 	color:#000000;
+ 	text-align: center;
+ 	font-size: 100%;
+ 	font-weight: bolder;
+ }
+ .fadeaway{
+ 	color:#C6CAB8;
+ }
+ 
+ .birthday{
+ 	font-size: 120%;
+ 	color:#963146;
+ }

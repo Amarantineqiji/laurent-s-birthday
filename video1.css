@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.head{
+	font-size:200%;
+	text-align: center;
+	color:#02579B;
+}
+
+img{
+	width:30%;
+	height:auto;
+}
+
+.video{
+	border: 10% solid #E21B1E;
+	max-width: 100%;
+	text-align: center;
+}
+.bottom{
+	font-size:200%;
+	text-align: center;
+	color:bisque;	
+}
+
